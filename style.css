@@ -424,6 +424,7 @@ footer{
     margin: auto;
     padding: 20px;
     max-width: 1000px;
+    justify-content: center;
 }
 
     #galleryTitle {
@@ -455,8 +456,9 @@ footer{
     }
 
     .track img {
-        width: calc(100% / 3);
-        height: 100%;
+        width: calc(100% / var(--images-per-view));
+        flex-shrink: 0;
+        max-height: 500px;
         border-radius: 10px;
         cursor: pointer;
         object-fit: contain;
@@ -464,7 +466,6 @@ footer{
         transition: 0.4s;
         z-index: 0;
     }
-
     .track img.active {
         transform: scale(1.0);
         z-index: 1;

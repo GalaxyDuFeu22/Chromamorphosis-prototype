@@ -46,6 +46,27 @@ fetch("characters.json")
         const track = document.getElementById("galleryTrack");
         track.innerHTML = "";
 
+        const totalImages = char.gallery.length;
+
+        imagesPerView = window.innerWidth <= 767
+            ? 1
+            : Math.min(totalImages, 3);
+
+        document
+        .getElementById("galleryTrack")
+        .style
+        .setProperty("--images-per-view", imagesPerView);
+
+        const prevBtn = document.querySelector(".prev");
+        const nextBtn = document.querySelector(".next");
+
+        const shouldHideNav =
+            window.innerWidth > 767 &&
+            totalImages <= 3;
+
+        prevBtn.style.display = shouldHideNav ? "none" : "block";
+        nextBtn.style.display = shouldHideNav ? "none" : "block";
+
         char.gallery.forEach(src => {
             const img = document.createElement("img");
             img.src = src;
@@ -55,7 +76,7 @@ fetch("characters.json")
                 openLightbox(src);
             });
 
-            galleryTrack.appendChild(img);
+            track.appendChild(img);
         });
 
 
@@ -86,7 +107,6 @@ function updateCarousel() {
     const offset = -(currentIndex * (100 / imagesPerView));
     galleryTrack.style.transform = `translateX(${offset}%)`;
 
-    updateActiveImage();
 }
 
 
@@ -94,23 +114,18 @@ function getMaxIndex(totalImages) {
     return totalImages - imagesPerView;
 }
 
-function updateActiveImage() {
-    const images = document.querySelectorAll("#galleryTrack img");
-
-    images.forEach((img, index) => {
-        img.classList.remove("active");
-
-        const centerIndex = currentIndex + Math.floor(imagesPerView / 2);
-
-        if (index === centerIndex) {
-            img.classList.add("active");
-        }
-    });
-}
-
-
 window.addEventListener("resize", () => {
-    imagesPerView = window.innerWidth <= 767 ? 1 : 3;
+    const totalImages = document.querySelectorAll("#galleryTrack img").length;
+
+    imagesPerView = window.innerWidth <= 767
+        ? 1
+        : Math.min(totalImages, 3);
+
+    document
+    .getElementById("galleryTrack")
+    .style
+    .setProperty("--images-per-view", imagesPerView);
+
     updateCarousel();
 });
 
