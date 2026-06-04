@@ -936,6 +936,19 @@ footer{
         right: 0;
     }
 
+    .characterButton{
+        max-width: 100%;
+    }
+
+    .characterCard {
+        max-width: 150px;
+    }
+
+    .characterCard>a>img {
+        max-width: 150px;
+        max-height: 150px;
+    }
+
     #sbook {
         margin-top: 20px;
     }
