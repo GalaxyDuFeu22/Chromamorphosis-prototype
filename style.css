@@ -883,6 +883,7 @@ footer{
     #languages{
         width: 50px;
         position: relative;
+        top: 0;
         margin: auto;
         right: auto;
     }
