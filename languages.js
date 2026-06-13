@@ -68,6 +68,7 @@ const translations = {
         li9: "Current situation : ",
         gallery: "Gallery",
         origin: "Origins",
+        powers: "Powers",
 
         //GAME
         createTitle: "Create your own Protector !",
@@ -200,6 +201,7 @@ const translations = {
         li9: "Situation actuelle : ",
         gallery: "Galerie",
         origin: "Origines",
+        powers: "Pouvoirs",
 
         //JEU
         createTitle: "Crée ton propre Protecteur !",

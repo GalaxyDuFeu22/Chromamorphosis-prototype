@@ -350,14 +350,14 @@ footer{
     margin-block: 50px;
 }
 
-    #description, #origins {
+    #description, #origins, #powers {
         max-width: 800px;
         border-radius: 10px;
         padding: 20px;
         color: black;
     }
 
-    #origins {
+    #origins, #powers {
         margin:auto;
         margin-top: 50px;
         position: relative;

@@ -38,10 +38,21 @@ fetch("characters.json")
         });
         document.getElementById("charOrigin").textContent = char.origin[lang];
         document.getElementById("origins").style.backgroundColor = char.thirdcolor;
+        document.getElementById("powers").style.backgroundColor = char.thirdcolor;
+        const powers = document.getElementById("powers");
+        const charPowers = document.getElementById("charPowers");
+
+        if (char.powers?.[lang]) {
+            powers.style.display = "";
+            charPowers.textContent = char.powers[lang];
+        } else {
+            powers.style.display = "none";
+        }
         document.getElementById("charIcon").src = char.icon;
         document.getElementById("en").style.backgroundColor = char.secondcolor;
         document.getElementById("fr").style.backgroundColor = char.secondcolor;
         document.getElementById("back").style.backgroundColor = char.secondcolor;
+    
 
         const track = document.getElementById("galleryTrack");
         track.innerHTML = "";
