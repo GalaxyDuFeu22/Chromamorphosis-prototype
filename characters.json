@@ -79,6 +79,47 @@
             "fr": "Grouka étant un Protecteur, il provient de l'arbre Père et il a été récupéré par Sydney qui est maintenant sa mère. Il a été récupéré quand le bourgeon s'est ouvert, Sydney l'a directement choisi, elle a toujours voulu avoir un enfant. "
         },
 
+        "favoriteColor": {
+            "en": "Bright green",
+            "fr": "Vert vif",
+            "hexa": "#1FFF62"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Drawing",
+                    "Playing",
+                    "Cats",
+                    "Balloons",
+                    "Spicy foods",
+                    "Elotes",
+                    "Sour candies"
+                ],
+                "fr": [
+                    "Dessiner",
+                    "Jouer",
+                    "Les chats",
+                    "Les ballons",
+                    "La nourriture épicée",
+                    "Les Elotes",
+                    "Les bonbons acides"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Writing too much",
+                    "Sadness",
+                    "Boring stuff"
+                ],
+                "fr": [
+                    "Trop écrire",
+                    "La tristesse",
+                    "Les trucs ennuyants"
+                ]
+            }
+        },
+
         "icon": "img/characters/Grouka/GroukaCharacter.png"
         
     },
@@ -161,6 +202,41 @@
             "fr": "Médoc a été recueilli par un homme qui travaille dans l'orphelinat du village Rujitep car il voyait que ce berceau contenait l'enfant depuis pas mal de temps et personne ne venait. C'est ici qu'elle a appris l'utilisation de ses pouvoirs et qu'on lui a donné ce nom, car elle guérissait les autres enfants. Malheureusement l'orphelinat a pris feu une nuit, elle s'est enfuie dehors et c'est là qu'elle rencontrera Grouka."
         },
 
+        "favoriteColor": {
+            "en": "Black",
+            "fr": "Noir",
+            "hexa": "#000000"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Family",
+                    "Putting on makeup",
+                    "Take care of others"
+                ],
+                "fr": [
+                    "La famille",
+                    "Se maquiller",
+                    "Prendre soin des autres"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Violence",
+                    "Rude people",
+                    "Overconfident people",
+                    "Spicy food"
+                ],
+                "fr": [
+                    "La violence",
+                    "Les personnes vulgaires",
+                    "Les personnes trop sûre d'elles",
+                    "La nourriture épicée"
+                ]
+            }
+        },
+
         "icon": "img/characters/Medoc/MedocCharacter.png"
     },
 
@@ -240,6 +316,39 @@
             "fr": "Domino vient bien évidemment d'un arbre Père, il est déjà mort plusieurs fois à cause de ses erreurs et sa négligence autour de lui, il pensait vivre dans un monde de bisounours. Cela veut dire aussi que son apparence a grandement évolué au fil du temps. Il a connu Ara et son père, il connaît bien son passé personnellement... Même s'il a oublié quelques détails."
         },
 
+        "favoriteColor": {
+            "en": "Turquoise",
+            "fr": "Turquoise",
+            "hexa": "#2AF4DC"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Reading",
+                    "Writing",
+                    "Teaching",
+                    "Tea"
+                ],
+                "fr": [
+                    "Lire",
+                    "Ecrire",
+                    "Enseigner",
+                    "Le thé"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Forgetting stuff",
+                    "Insects"
+                ],
+                "fr": [
+                    "Oublier des trucs",
+                    "Les insectes"
+                ]
+            }
+        },
+
         "icon": "img/characters/Domino/DominoCharacter.png"
     },
 
@@ -306,8 +415,7 @@
         },
         
         "gallery": [
-            "img/characters/Aurel/aurel_01.png",
-            "img/characters/Aurel/aurel_02.jpg"
+            "img/characters/Aurel/aurel_01.png"
             ],
 
         "powers": {
@@ -318,6 +426,39 @@
         "origin": {
             "en": "Aurel is the very first Protector to have come into being, at the dawn of the very first Father Tree! Although he appears human today, this was not at all the case before, as the Guardians didn't yet know which creature to copy. He mostly resembled a lifeless, softened mass of flesh. Then, over time, he passed through various forms like animal, insect, plant, and so on until the Guardians learned to create humans.",
             "fr": "Aurel est le tout premier Protecteur a être venu au monde, à l'apparition du tout premier Arbre Père ! Bien qu'il ait l'apparence d'un humain aujourd'hui, ce n'était pas du tout le cas avant car les gardiens ne savaient pas encore quelle créature recopier, alors il ressemblait surtout à un tas de chair ramollit, sans vie. Puis au fil du temps, il passe par plusieurs type de corps, que ce soit animal, insecte, végétal etc... Jusqu'à ce que les gardiens apprennent à réaliser les humains."
+        },
+
+        "favoriteColor": {
+            "en": "Blue-gray",
+            "fr": "Bleu gris",
+            "hexa": "#9BACBF"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Discovering things",
+                    "Being alone",
+                    "Shortbread cookies"
+                ],
+                "fr": [
+                    "Découvrir des choses",
+                    "Être tranquille",
+                    "Les sablés"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Missing opportunities",
+                    "Not being listened to",
+                    "Noise"
+                ],
+                "fr": [
+                    "Manquer des opportunités",
+                    "Ne pas être écouté",
+                    "Le bruit"
+                ]
+            }
         },
 
         "icon": "img/characters/Aurel/AurelCharacter.png"
@@ -399,6 +540,39 @@
             "fr": "Comme tout bon Protecteur qui se respecte, il vient de l'arbre Père, mais l'ancien avant celui actuel, ce qui explique alors son grand âge. Il a bien sûr eu plusieurs accidents en cours de route avec ses métiers assez dangereux, il a toujours aimé être actif et avoir de l'action. Zaos a eu une femme, Cynthia, qu'il adorait plus que tout, mais celui-ci lui arriver de la frapper lorsqu'il y a des disputes. Il a même forcé sa femme à avoir un enfant alors qu'elle n'a jamais voulu en avoir. Après environ 1 an de la naissance de son fils Galan, Cynthia lui a laissé une lettre avant de partir, le laissant seul avec son fils. Depuis, il passe parfois sa colère sur son enfant en le frappant."
         },
 
+        "favoriteColor": {
+            "en": "Blue",
+            "fr": "Bleu",
+            "hexa": "#1F78FF"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Smoking",
+                    "Doing sport",
+                    "Coffee"
+                ],
+                "fr": [
+                    "Fumer",
+                    "Ecrire",
+                    "Le café"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Waiting",
+                    "Being pointed at",
+                    "Being observed"
+                ],
+                "fr": [
+                    "Attendre",
+                    "Être pointé du doigt",
+                    "Être observé"
+                ]
+            }
+        },
+
         "icon": "img/characters/Zaos/ZaosCharacter.png"
     },
 
@@ -469,6 +643,15 @@
             "img/characters/Sharma/sharma_02.png"
             ],
 
+        "videos": {
+            "videoAbout": {
+                "1": {
+                    "name": "I don't speak german",
+                    "link": "https://youtube.com/shorts/7Rgz8OQntTo?si=fuqpxsGujrsZedZv"
+                }
+            }
+        },
+
         "powers": {
             "en": "Sharma is able to take on the appearance of anyone as long as he has properly analyzed their face and body. However, mimicking their voice is much harder; it's not something he can really do.",
             "fr": "Sharma est capable de prendre l'apparence de n'importe qui tant qu'il a pu bien analysé le visage et le corps de la personne. Cependant, prendre la voix de celle-ci est bien plus dur, ce n'est pas vraiment quelque chose qu'il arrive à faire."
@@ -477,6 +660,39 @@
         "origin": {
             "en": "Sharma was born from the Father Tree with a twin sister named Vaika. They were the very first twins ever created and have always been adopted together. Having lived thousands of years ago, he sometimes struggles with the modern world and the evolution of society, but he tries his best!",
             "fr": "Sharma est né de l'arbre père avec une sœur jumelle appelée Vaika. Ce sont les tout premiers jumeaux jamais créés et ils ont toujours été adoptés ensemble. Ayant vécu il y a des milliers années, il a parfois du mal avec le monde actuel et l'évolution de la société, mais il fait des efforts !"
+        },
+
+        "favoriteColor": {
+            "en": "Gold",
+            "fr": "Or",
+            "hexa": "#FFD700"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Dressing up",
+                    "His cats",
+                    "Perfume"
+                ],
+                "fr": [
+                    "S'habiller",
+                    "Ses chats",
+                    "Le parfum"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Waiting",
+                    "Being sticky or messy",
+                    "His sister"
+                ],
+                "fr": [
+                    "Attendre",
+                    "Sentir mauvais ou être sale",
+                    "Sa soeur"
+                ]
+            }
         },
 
         "icon": "img/characters/Sharma/SharmaCharacter.png"
@@ -560,6 +776,43 @@
             "fr": "Vaika est née avec son frère jumeau Sharma, ce sont les seuls Protecteurs jumeaux à exister. Malheureusement,  elle se fait souvent rabaisser par son frère à cause de son caractère, mais malgré tout, elle reste quelquefois avec lui."
         },
 
+        "favoriteColor": {
+            "en": "Sky blue",
+            "fr": "Bleu ciel",
+            "hexa": "#95C8E9"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Dressing up",
+                    "Her cats",
+                    "Perfume",
+                    "Flowers",
+                    "Softness"
+                ],
+                "fr": [
+                    "S'habiller",
+                    "Ses chats",
+                    "Le parfum",
+                    "Les fleurs",
+                    "La douceur"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Talking in public",
+                    "Making mistakes",
+                    "Being sticky or messy"
+                ],
+                "fr": [
+                    "Parler en public",
+                    "Faire des erreurs",
+                    "Sentir mauvais ou être sale"
+                ]
+            }
+        },
+
         "icon": "img/characters/Vaika/VaikaCharacter.png"
     },
 
@@ -641,6 +894,47 @@
             "fr": "Sibel est né un 14 février, et sa naissance était comme un signe d'espoir pour les gens autour. En fait, elle a été recueillie par un homme qui croyait fort aux Protecteurs, qui comptait beaucoup sur eux et il le fit savoir aux autres. Alors le jour de la naissance de Sibel, c'est la naissance de la fête de la Saint-Valentin qui devient un signe d'espoir et d'amour où le monde était encore en guerre. Elle a été énormément chouchoutée suite à cela, et au fil des années, des décennies et des siècles, les gens sont moins fanatiques qu'avant."
         },
 
+        "favoriteColor": {
+            "en": "Burgundy",
+            "fr": "Bordeaux",
+            "hexa": "#7B1B38"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Putting makeup on",
+                    "Wrinting stories",
+                    "Meeting new people",
+                    "Flowers",
+                    "Red wine",
+                    "Romantic stories",
+                    "Her cat"
+                ],
+                "fr": [
+                    "Se maquiller",
+                    "Ecrire des histoires",
+                    "Faire de nouvelles rencontres",
+                    "Les fleurs",
+                    "Le vin rouge",
+                    "Les histoires romantiques",
+                    "Son chat"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Being humiliated or making fun of her",
+                    "Being misunderstood",
+                    "Breaking her nails"
+                ],
+                "fr": [
+                    "Se faire humiliée ou se moquer d'elle",
+                    "Être mal comprise",
+                    "Se casser les ongles"
+                ]
+            }
+        },
+
         "icon": "img/characters/Sibel/SibelCharacter.png"
     },
 
@@ -718,6 +1012,39 @@
         "origin": {
             "en": "Arryn, as a Protector, comes from the Father Tree. He was born primarily because deforestation was rampant. He was adopted by an old man who had recently lost his wife and felt extremely lonely. This man cared for Arryn, but unfortunately, he was already quite old and died when Arryn was only 13. Despite this, Arryn was able to fend for himself thanks to his father's guidance. Since Arryn was a minor, he needed to be under someone else's care, so one of the old man's sons took him in. He pleased the family with his independence and his gardening skills, but Arryn still cherishes the memories of his adoptive father, and he still comes to tend the flowers around his grave. Once he was an adult, Arryn wanted to have a child with his girlfriend, but she didn't want one. In fact, she eventually left him because she no longer truly loved him. So Arryn tried to find the woman of his dreams for a few years, but it never lasted, so he gave up. He had heard rumors that a certain Protector of Death had just been born at the Father Tree, and that's how he adopted Chara and took care of her.",
             "fr": "Arryn, en tant que Protecteur, provient de l'Arbre Père, il est surtout né parce que la déforestation ne faisait que croître. Il a d'ailleurs été adopté par un vieux monsieur qui avait perdu sa femme il y a peu, il se sentait extrêmement seul. Il s'est ainsi occupé d'Arryn, malheureusement, il avait déjà un âge assez important, alors il est mort alors qu'Arryn n'avait que 13 ans. Il a su s'occuper tout seul malgré tout grâce à l'éducation de son père. Arryn a bien sûr dû être sous l'autorité d'une autre personne puisqu'il n'était pas adulte, alors sa garde a été donnée à un des fils du vieil homme. Il su satisfaire la famille avec son autonomie et sa capacité à jardiner, mais Arryn garde toujours en lui les souvenirs de son père adoptif, il vient encore faire fleurir les fleurs autour de sa tombe. Une fois adulte, Arryn a voulu avoir un enfant avec sa copine, mais elle ne voulait pas, elle a d'ailleurs fini par le quitter car elle ne l'aimait plus vraiment. Alors Arryn essaya de trouver peut-être la femme de sa vie pendant quelques années, mais ça ne durait jamais, alors il a abandonné. Il avait entendu des rumeurs comme quoi une certaine Protectrice de la Mort venait de naître à l'Arbre Père, et c'est ainsi qu'il adopta Chara et s'en occupa."
+        },
+
+        "favoriteColor": {
+            "en": "Pastel green",
+            "fr": "Vert pastel",
+            "hexa": "#E4FDE1"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Being a parent",
+                    "Plants",
+                    "His daugther",
+                    "Sesame bread"
+                ],
+                "fr": [
+                    "Être un parent",
+                    "Les plantes",
+                    "Sa fille",
+                    "Le pain au sésame"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Making his daugther sad",
+                    "Winter"
+                ],
+                "fr": [
+                    "Rendre sa fille triste",
+                    "L'hiver"
+                ]
+            }
         },
 
         "icon": "img/characters/Arryn/ArrynCharacter.png"
@@ -799,6 +1126,39 @@
             "fr": "Chara n'a jamais été choisie pour être adoptée par les humains, mais heureusement qu'Arryn est venu la sauver. On lui a toujours appris à ne jamais toucher les autres avec ses mains car elle a un pouvoir trop dangereux."
         },
 
+        "favoriteColor": {
+            "en": "Violet",
+            "fr": "Violet",
+            "hexa": "#8F00FF"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Drawing with chalks",
+                    "Homemade food",
+                    "Pastries",
+                    "Plushies"
+                ],
+                "fr": [
+                    "Dessiner avec des craies",
+                    "La nourriture faite maison",
+                    "Les pâtisseries",
+                    "Les peluches"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Being abandoned",
+                    "Seeing with her two eyes"
+                ],
+                "fr": [
+                    "Être abandonnée",
+                    "Voir avec ses deux yeux"
+                ]
+            }
+        },
+
         "icon": "img/characters/Chara/CharaCharacter.png"
     },
 
@@ -874,6 +1234,39 @@
             "fr": "Né en tant qu'homme religieux nommé Vincent, Hazel est un prénom qu'iel a choisi vers ses 16 ans, car il pense ne pas se définir, quand il a vu que les hommes et les femmes se font la 'guerre'. Entre les hommes qui sont terrifiants et les femmes qui sont victimes généralement, iel a préféré qu'on s'adresse à lui avec ce qui rend la personne le plus à l'aise, malgré que son apparence reste masculine. Vers ses 25 ans, il travaille pour Aurel, en tant que garde du corps. Mais suite à un cambriolage assez violent, alors qu'il avait 33 ans, il perdit la vue à cause des agresseurs qui lui ont poignardés les yeux. D'ailleurs, il ne cherche pas à cacher ses yeux avec des prothèses, il a horreur de ça puis il montre ainsi son vrai visage avec ses cicatrices, il n'a pas honte, il ne veut pas les cacher sauf en public pour éviter de choquer. Depuis, Aurel le voit comme inutile et on ne lui donne plus vraiment de tâches à faire, il finit par faire “babysitter” pour Ara. C'est d'ailleurs depuis qu'iel a perdu la vue qu'iel ne se considère plus comme religieux. Cependant, il a toujours comme passion de jardiner, que ce soit fleurs ou légumes, voir fruit, il adore tout faire pousser et donne quelques nourriture aux associations. Dans son quotidien, iel se fait souvent assister par une femme qui prend soin de lui."
         },
 
+        "favoriteColor": {
+            "en": "Dark green",
+            "fr": "Vert foncé",
+            "hexa": "#102820"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Taking care of plants",
+                    "Cooking",
+                    "Talking to their assistant",
+                    "Leeks"
+                ],
+                "fr": [
+                    "Prendre soin des plantes",
+                    "Cuisiner",
+                    "Parler avec son assistante",
+                    "Les poireaux"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Not being able to do anything",
+                    "Being alone for too long"
+                ],
+                "fr": [
+                    "Ne pas être capable de faire quoique ce soit",
+                    "Être seul pendant trop longtemps"
+                ]
+            }
+        },
+
         "icon": "img/characters/Hazel/HazelCharacter.png"
     },
 
@@ -936,7 +1329,7 @@
 
         "description": {
             "en": "Cathie is a woman who wants to live a peaceful and calm life. She is very considerate of others and often persists in trying to find out what's wrong with someone, she can be quite stubborn. She is also very jealous and she makes it known! Despite this, Cathie is very patient with others and loves to help whenever she can. She always looks for solutions and reassures others. She would also love to have children, she really enjoys taking care of people, so she thinks that having children would be perfect. Cathie is also very studious, she loves learning all sorts of things and remembers them well! She is particularly fond of plants and wants to know everything about them. She is also very curious, and when someone is hiding something, she will do almost anything to find out what it is!",
-            "fr": "Cathie est une femme qui veut vivre une vie assez paisible et calme. Elle fait très attention aux autres et elle force souvent pour savoir ce qui ne va pas chez quelqu'un, elle est assez têtue. C'est une femme aussi très jalouse et elle le fait savoir ! Malgré cela, Cathie est une femme très patiente envers les autres et elle adore aider quand elle peut, elle cherche toujours des solutions et rassure les autres.Elle aimerait bien aussi avoir des enfants, elle aime vraiment bien s'occuper de quelqu'un alors elle se dit qu'avec des enfants, c'est parfait.Cathie est aussi très studieuse en vérité, elle adore apprendre toutes sortes de choses et elle les retient bien ! Elle aime particulièrement la flore et elle veut tout savoir là-dessus.Elle est aussi très curieuse, et quand quelqu'un cache quelque chose, elle fait presque tout pour savoir ce que c'est !"
+            "fr": "Cathie est une femme qui veut vivre une vie assez paisible et calme. Elle fait très attention aux autres et elle force souvent pour savoir ce qui ne va pas chez quelqu'un, elle est assez têtue. C'est une femme aussi très jalouse et elle le fait savoir ! Malgré cela, Cathie est une femme très patiente envers les autres et elle adore aider quand elle peut, elle cherche toujours des solutions et rassure les autres. Elle aimerait bien aussi avoir des enfants, elle aime vraiment bien s'occuper de quelqu'un alors elle se dit qu'avec des enfants, c'est parfait. Cathie est aussi très studieuse en vérité, elle adore apprendre toutes sortes de choses et elle les retient bien ! Elle aime particulièrement la flore et elle veut tout savoir là-dessus. Elle est aussi très curieuse, et quand quelqu'un cache quelque chose, elle fait presque tout pour savoir ce que c'est !"
         },
         
         "gallery": [
@@ -946,6 +1339,45 @@
         "origin": {
             "en": "She is the daughter of the Protector of Gentleness, but her father died of prostate cancer when she was only six years old. It was very hard for her and her mother, but they remained strong. Since then, her mother has raised her alone, not wanting to find a new father for her daughter. Cathie was born in England and has a lovely, rather British accent. Her mother was a florist, and Cathie was very interested in what she did. In fact, Cathie and her mother are like best friends, they get along wonderfully. When Cathie left the country to work in Suruna, she called her mother every day, and vice versa, to check in on her. Her mother sometimes comes to visit her when she can.",
             "fr": "Elle est la fille de la Protectrice de la Douceur, mais son père est mort d'un cancer de la prostate alors qu'elle n'avait que 6 ans, cela a été très dur pour elle et sa mère, mais elles ont su restaient fortes, et depuis, sa mère était seule pour l'élever, ne voulant pas trouver un nouveau père pour sa fille. Cathie est née en Angleterre, et elle a un joli accent assez britannique. Sa mère était déjà fleuriste et Cathie était très intéressée par ce qu'elle faisait, en fait Cathie et sa mère sont comme des meilleures amies, elles s'entendent à merveille. Lorsque Cathie est partie du pays pour travailler à Suruna, quotidiennement elle appelle sa mère, et inversement, pour prendre des nouvelles. Il arrive à sa mère de venir lui rendre visite lorsqu'elle peut."
+        },
+
+        "favoriteColor": {
+            "en": "Sunflower yellow",
+            "fr": "Jaune tournesol",
+            "hexa": "#FFDA03"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Talking with others",
+                    "Meeting new people",
+                    "Dancing",
+                    "Flowers, especially sunflowers",
+                    "Bees"
+                ],
+                "fr": [
+                    "Parler avec les autres",
+                    "Faire de nouvelles rencontres",
+                    "Danser",
+                    "Les fleurs, en particulier les tournesols",
+                    "Les abeilles"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Waiting",
+                    "Doing nothing",
+                    "Hiding something from her",
+                    "Her appareance"
+                ],
+                "fr": [
+                    "Attendre",
+                    "Ne rien faire",
+                    "Lui cacher quelque chose",
+                    "Son apparence"
+                ]
+            }
         },
 
         "icon": "img/characters/Cathie/CathieCharacter.png"
@@ -1022,6 +1454,43 @@
             "fr": "Galan est le fils de Zaos, le Protecteur de la justice, mais sa mère est partie alors qu'il n'avait que quelques mois. En fait, sa mère n'a jamais voulu avoir d'enfant, alors Zaos a dû l'éduquer seul, mais il était très violent avec son fils ce qui a eu des séquelles sur lui. Vers son adolescence, il se posait beaucoup de questions sur lui-même, et même encore aujourd'hui, il lui arrive souvent de se détester en se regardant dans le miroir."
         },
 
+        "favoriteColor": {
+            "en": "Pastel blue",
+            "fr": "Bleu pastel",
+            "hexa": "#B1E5FF"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Picking flowers",
+                    "Tranquility",
+                    "Being himself",
+                    "Animals"
+                ],
+                "fr": [
+                    "Ramasser des fleurs",
+                    "La tranquillité",
+                    "Être lui-même",
+                    "Les animaux"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Getting yelled at",
+                    "Fighting",
+                    "The dark",
+                    "His body"
+                ],
+                "fr": [
+                    "Se faire crier dessus",
+                    "Se battre",
+                    "Le noir",
+                    "Son corps"
+                ]
+            }
+        },
+
         "icon": "img/characters/Galan/GalanCharacter.png"
     },
 
@@ -1096,6 +1565,45 @@
             "fr": "Olympe est la fille d'Aurel, mais celui-ci a arrêté de la regarder depuis qu'il a appris que l'être qu'il recherche est toujours en vie. Elle a toujours été une enfant un peu négligée malgré que sa mère et son frère s'occupent d'elle. S'étant toujours renfermée sur elle-même, les gens autour ne la connaissant jamais vraiment à 100%."
         },
 
+        "favoriteColor": {
+            "en": "Magenta red",
+            "fr": "Rouge magenta",
+            "hexa": "#CA1F7B"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Drawing",
+                    "Crochetting amigurumis and clothes",
+                    "Listening to rock music",
+                    "Being with trustful people",
+                    "Being in her bubble"
+                ],
+                "fr": [
+                    "Dessiner",
+                    "Crochetter des amigurumis et des vêtements",
+                    "Ecouter de la musique rock",
+                    "Être avec des personnes de confiance",
+                    "Être dans sa bulle"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Getting yelled at",
+                    "Making choices",
+                    "Thinking about the future",
+                    "The body's interior (organs, muscles...)"
+                ],
+                "fr": [
+                    "Se faire crier dessus",
+                    "Faire des choix",
+                    "Penser au futur",
+                    "L'intérieur du corps (organes, muscles...)"
+                ]
+            }
+        },
+
         "icon": "img/characters/Olympe/OlympeCharacter.png"
     },
 
@@ -1168,9 +1676,59 @@
             "img/characters/Ara/ara_02.png"
             ],
 
+        "videos": {
+            "videoFeat": {
+                "1": {
+                    "name": "4:00 A.M.",
+                    "link": "https://youtu.be/C5R0e0YbyOE?si=qdEHufdx9BwrfJWb"
+                }
+            }
+        },
+
         "origin": {
             "en": "Ara comes from a time about a century ago. She was a true warrior who followed in her father's footsteps. Now, she finds herself in the present because of Domino, who had made a promise to her father.",
             "fr": "Ara provient d'une époque d'il y a environ 1 siècle, elle était une vraie guerrière qui a suivi les pas de son père. Désormais, elle se retrouve dans le présent à cause de Domino qui avait fait une promesse à son père."
+        },
+
+        "favoriteColor": {
+            "en": "Coffee brown",
+            "fr": "Marron café",
+            "hexa": "#60392F"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Observing",
+                    "Fighting",
+                    "Learning new things",
+                    "The little guys",
+                    "Birds",
+                    "Northern lights"
+                ],
+                "fr": [
+                    "Observer",
+                    "Se battre",
+                    "Apprendre de nouvelles choses",
+                    "Les petits bonhommes",
+                    "Les oiseaux",
+                    "Les aurores boréales"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Not being taken seriously",
+                    "Not understanding something",
+                    "Her visions",
+                    "Tactile people she doesn't trust"
+                ],
+                "fr": [
+                    "Ne pas être prise au sérieux",
+                    "Ne pas comprendre quelquechose",
+                    "Ses visions",
+                    "Les personnes tactiles en qui elle n'a pas confiance"
+                ]
+            }
         },
 
         "icon": "img/characters/Ara/AraCharacter.png"
@@ -1245,9 +1803,61 @@
             "img/characters/Alison/alison_04.png"
             ],
 
+        "videos": {
+            "videoAbout": {
+                "1": {
+                    "name": "4:00 A.M.",
+                    "link": "https://youtu.be/C5R0e0YbyOE?si=j5fmuE-mDOgFb9Uq"
+                }
+            },
+            "videoFeat": {
+                "1": {
+                    "name": "Paparazzi",
+                    "link": "https://youtu.be/Z2fAyakTeX8?si=U35P_dJjggjDc9jH"
+                }
+            }
+        },
+
         "origin": {
             "en": "Alison comes from the city of Suruna, where she grew up. She learned to hunt from her parents, it's a kind of family tradition, even though she was forced into it. Sometimes her father regretted having a daughter, believing that this was why she struggled with hunting. Over the years, she hasn't been able to pursue any further studies or training because she considers herself “destined for hunting” even though she doesn't want to.",
             "fr": "Alison provient de la ville de Suruna où elle a grandi. Elle a appris à chasser grâce à ses parents, c'est une sorte de tradition dans la famille même si elle en a été forcée. Il lui arrivait que son père regrettait d'avoir mis au monde une fille, il pense que c'est à cause de ça qu'elle a dû mal à se faire à la chasse. Au fil des années, elle n'a pu faire d'autres études ou formations car elle se dit être “Destinée à la chasse” malgré qu'elle ne le veut pas."
+        },
+
+        "favoriteColor": {
+            "en": "Crimson red",
+            "fr": "Rouge cramoisi",
+            "hexa": "#DC143C"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Drawing",
+                    "Tranquility",
+                    "The rain",
+                    "Roses"
+                ],
+                "fr": [
+                    "Dessiner",
+                    "La tranquillité",
+                    "La pluie",
+                    "Les roses"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Hunting",
+                    "Hurting others",
+                    "Being hit on",
+                    "Being left alone"
+                ],
+                "fr": [
+                    "Chasser",
+                    "Faire du mal aux autres",
+                    "Se faire draguer",
+                    "Être laissée seule"
+                ]
+            }
         },
 
         "icon": "img/characters/Alison/AlisonCharacter.png"
@@ -1318,10 +1928,60 @@
         "gallery": [
             "img/characters/Syma/syma_01.png"
             ],
+        
+        "videos": {
+            "videoFeat": {
+                "1": {
+                    "name": "Paparazzi",
+                    "link": "https://youtu.be/Z2fAyakTeX8?si=U35P_dJjggjDc9jH"
+                }
+            }
+        },
 
         "origin": {
             "en": "Syma was born Victor. He comes from a kind and caring family who always accepted his desire to become a musician and were always there for him. But when he was younger, one day he was walking home from school with his little sister, but she was hit by a car while he wasn't paying attention. Since then, he has always blamed himself and sees himself as a devil, hence the horns he styles in his hair. Despite this, his family helps him overcome the terrible sadness that has consumed him, and that's where his name Syma comes from, a blend of 'symphony' and 'Sanma', his sister's name. Although his official documents still list him as Victor, he prefers to be called Syma.",
             "fr": "Syma s'appelait Victor à la naissance, il vient d'une gentille famille bienveillante qui a toujours accepté le fait qu'il voulait devenir musicien, elle a toujours été là pour lui. Mais lorsqu'il était plus jeune, un jour il devait rentrer avec sa petite sœur de l'école, mais celle-ci s'est faite renverser par une voiture alors qu'il ne faisait pas attention. Et depuis, il s'en est toujours voulu et se voit comme un diable, d'où le fait qu'il forme des cornes avec ses cheveux. Malgré cela, sa famille l'aide à surmonter cette terrible tristesse qui le ronge depuis, et c'est de là que vient son prénom Syma, c'est le mélange entre symphonie et Sanma, le prénom de sa sœur. Bien que sur les papiers officiels, le prénom Victor reste inscrit, il préfère qu'on l'appelle Syma."
+        },
+
+        "favoriteColor": {
+            "en": "Pumpkin orange",
+            "fr": "Orange citrouille",
+            "hexa": "#F87217"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Playing piano and violin",
+                    "Writing his own music",
+                    "Listening to music",
+                    "Reading",
+                    "Shows"
+                ],
+                "fr": [
+                    "Jouer du piano et du violon",
+                    "Ecrire ses propres musiques",
+                    "Ecouter de la musique",
+                    "Lire",
+                    "Les spectacles"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Not being inspired",
+                    "Not being productive",
+                    "Making mistakes",
+                    "Being criticized",
+                    "Coconut"
+                ],
+                "fr": [
+                    "Ne pas être inspiré",
+                    "Ne pas être productif",
+                    "Faire des erreurs",
+                    "Être critiqué",
+                    "La noix de coco"
+                ]
+            }
         },
 
         "icon": "img/characters/Syma/SymaCharacter.png"
@@ -1390,13 +2050,45 @@
         },
         
         "gallery": [
-            "img/characters/Lumni/lumni_01.png",
-            "img/characters/Lumni/lumni_02.png"
+            "img/characters/Lumni/lumni_01.png"
             ],
 
         "origin": {
             "en": "Lumni comes from a family that, let's face it, isn't exactly rolling in money. But his parents still took great care of him, even after the birth of his little brother, Solan. In fact, they get along very well, and Lumni loves giving him presents because he loves seeing him happy! Then, a few years later, Solan does the same.",
             "fr": "Lumni vient d'une famille qui, osons le dire, ne roule pas sur l'or. Mais ses parents faisaient quand même très attention à lui, et cela, même après la naissance de son petit frère, Solan. D'ailleurs il s'entend très bien avec lui et Lumni adore lui offrir des cadeaux, car il aime le voir heureux ! Puis Solan fait de même quelques années plus tard."
+        },
+
+        "favoriteColor": {
+            "en": "Lime green",
+            "fr": "Vert citron",
+            "hexa": "#32CD32"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Cooking",
+                    "Making food for others",
+                    "Talking with people",
+                    "Seafoods"
+                ],
+                "fr": [
+                    "Cuisiner",
+                    "Préparer à manger pour les autres",
+                    "Parler avec les gens",
+                    "Les fruits de mer"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Burning a dish",
+                    "Being ignored"
+                ],
+                "fr": [
+                    "Brûler un plat",
+                    "Être ignoré"
+                ]
+            }
         },
 
         "icon": "img/characters/Lumni/LumniCharacter.png"
@@ -1473,6 +2165,43 @@
             "fr": "Solan vient d'une famille qui, osons le dire, ne roule pas sur l'or. Il est le petit frère de Lumni, et ils s'entendent à merveille. Il a toujours été passionné par la photographie et les films, il a d'ailleurs reçu un appareil photo à ses 18 ans ! Et depuis, il fait des photos presque tous les jours, des gens, des paysages, des animaux etc..."
         },
 
+        "favoriteColor": {
+            "en": "Royal blue",
+            "fr": "Bleu royal",
+            "hexa": "#305CDE"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Taking photos and videos",
+                    "Writing articles",
+                    "Talking with people",
+                    "Hazelnuts",
+                    "Pistachios"
+                ],
+                "fr": [
+                    "Prendre des photos et vidéos",
+                    "Ecrire des articles",
+                    "Parler avec les gens",
+                    "Les noisettes",
+                    "Les pistaches"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Taking bad photos",
+                    "Spelling mistakes",
+                    "Spicy food"
+                ],
+                "fr": [
+                    "Rater une photo",
+                    "Les fautes d'orthographe",
+                    "La nourriture épicée"
+                ]
+            }
+        },
+
         "icon": "img/characters/Solan/SolanCharacter.png"
     },
 
@@ -1543,10 +2272,56 @@
             "img/characters/Oshi/oshi_02.png",
             "img/characters/Oshi/oshi_03.png"
             ],
+        
+        "videos": {
+            "videoAbout": {
+                "1": {
+                    "name": "Paparazzi",
+                    "link": "https://youtu.be/Z2fAyakTeX8?si=U35P_dJjggjDc9jH"
+                }
+            }
+        },
 
         "origin": {
             "en": "Óshi comes from a family that always treated her differently because of her unusual white skin, her color-changing eyes, and her very strange personality. But she eventually managed to make a life for herself elsewhere, where she now lives her passion: theater. (Due to spoilers, the story has been greatly shortened.)",
             "fr": "Óshi vient d'une famille qui l'a toujours traitée différemment, à cause de sa drôle de couleur de peau blanche, ses yeux qui changent de couleur, mais aussi sa personnalité très étrange. Mais elle a finit par réussir à vivre plus loin où elle vit de sa passion, le théâtre. (En raison de spoil, l'histoire a été énormément raccourcis)"
+        },
+
+        "favoriteColor": {
+            "en": "Electric pink",
+            "fr": "Rose électrique",
+            "hexa": "#F635B4"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Acting",
+                    "Teasing others",
+                    "Playing with emotions",
+                    "Dancing",
+                    "Being admired"
+                ],
+                "fr": [
+                    "Jouer un rôle",
+                    "Taquiner les autres",
+                    "Jouer avec les émotions",
+                    "Danser",
+                    "Être admirée"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Loud noises",
+                    "Nothing goes like she wanted to",
+                    "People who think they are above her"
+                ],
+                "fr": [
+                    "Les bruits forts",
+                    "Rien ne se passe comme elle le voulait",
+                    "Les gens qui pensent être au-dessus d'elle"
+                ]
+            }
         },
 
         "icon": "img/characters/Oshi/OshiCharacter.png"
@@ -1624,6 +2399,43 @@
             "fr": "Louiss s'appelait Louis avant, mais il voulait de l'originalité, alors il a ajouté un 's', comme pour faire référence au serpent. Il a une sœur du nom de Louise et il vient d'une famille avec un père japonais et une mère américaine. Il adore dire qu'il est 100% japonais grâce à son père,  même s'il ne l'est pas. Louiss a toujours été un enfant très créatif, alors il a voulu faire en sorte que ses créations soient réelles, alors il s'est mis au dessin très tôt, vers l'âge de 3 ans déjà. Il s'amusait surtout à dessiner des animaux ou toutes sortes de créatures, et petit à petit il s'est mis à dessiner des humains, ses propres persos, puis faire ses propres histoires. Il possède un compte dessin sur plusieurs réseaux sociaux où il adore tout partager, il a de même déjà publié des webtoons. Durant son adolescence, c'est là qu'il a le plus changé, il s'est percé lui-même les oreilles, fait ses propres tatouages, et il s'est même coupé la langue avec un ciseau ! Il a dû finir à l'hôpital à cause de ça, et il a finalement dû aller voir un professionnel. Il a aussi pris des substances assez étranges et s'est déjà piqué, mais il a arrêté maintenant, même s'il n'en refuserait pas."
         },
 
+        "favoriteColor": {
+            "en": "Bright orange",
+            "fr": "Orange vif",
+            "hexa": "#FF5D00"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Drawing",
+                    "Teasing others",
+                    "Flirting, especially with women",
+                    "Talking for hours",
+                    "Making jokes"
+                ],
+                "fr": [
+                    "Dessiner",
+                    "Taquiner les autres",
+                    "Draguer, en particulier les femmes",
+                    "Parler pendant des heures",
+                    "Faire des blagues"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Being alone",
+                    "Ghosts and spirits",
+                    "The dark"
+                ],
+                "fr": [
+                    "Être seul",
+                    "Les fantômes et les esprits",
+                    "Le noir"
+                ]
+            }
+        },
+
         "icon": "img/characters/Louiss/LouissCharacter.png"
     },
 
@@ -1696,6 +2508,41 @@
         "origin": {
             "en": "She came from a family where her mother was a model, so she naturally followed in her footsteps, though she didn't achieve quite the same level of success. In reality, she was more of an intellectual, so she focused primarily on her law studies. She had always been fascinated by the world, history, and the law, interests that helped her win numerous debates. It was during her studies that she met Aurel; he was a serious student and one of the top performers in the class. Calm, attentive, and handsome, he won Yris’s heart. They often helped each other with their coursework, and gradually, love blossomed. Years later, they married after Aurel had become mayor. They had their first child, Alan, followed later by Olympe. Together, they now run the town hall, or at least they did, until Aurel discovered that a certain person was still alive...",
             "fr": "Elle vient d’une famille où la mère était mannequin, alors elle a naturellement suivi sa voie, cependant elle n’a pas eu autant de succès que sa mère. En réalité, elle était plus intellectuelle alors elle se focalisait davantage sur ses études en droit. Elle a toujours été fascinée par le monde, l’Histoire et les lois, ce qui lui permet de gagner plusieurs débats. Elle a d’ailleurs rencontré Aurel durant ses études, il était très sérieux et faisait partie des meilleurs de la classe. Il était aussi calme et attentif, puis très beau, ce qui avait eu le coeur d’Yris. Il s'entraidaient souvent pour les cours, puis petit à petit l’amour est né. Ils ont fini par se marier des années plus tard alors qu’Aurel était devenu maire. Ils ont eu leur premier enfant Alan, puis plus tard Olympe. A deux, ils dirigent maintenant la mairie, enfin, jusqu’à ce qu'Aurel découvre qu’une certaine personne est toujours en vie..."
+        },
+
+        "favoriteColor": {
+            "en": "Pastel pink",
+            "fr": "Rose pastel",
+            "hexa": "#FFC5D3"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Tidying up the house",
+                    "Taking care of her family",
+                    "Reading books"
+                ],
+                "fr": [
+                    "Ranger la maison",
+                    "Prendre soin de sa famille",
+                    "Lire des livres"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Being yelled at",
+                    "Being abandoned",
+                    "Disappointing her husband",
+                    "Being dependent"
+                ],
+                "fr": [
+                    "Se faire crier dessus",
+                    "Être abandonnée",
+                    "Décevoir son mari",
+                    "Être dépendante"
+                ]
+            }
         },
 
         "icon": "img/characters/Yris/YrisCharacter.png"
@@ -1772,6 +2619,43 @@
             "fr": "Il est né dans un pays où la liberté est très peu présente, alors cela a été assez compliqué pour lui, surtout lorsqu’il a découvert qu’il aimait les hommes. Il n’ose le dire à personne, même si sa grande sœur, Kayrah, en a été au courant, heureusement, elle le soutient. Lui et Kayrah ont toujours été fan de rock, des chanteurs, de la musique, et c’est sa sœur qui lui a donné l’idée de créer un petit groupe entre eux. Alors ils ont appris à chanter et utiliser des instruments en autodidacte puis ils ont commencé à poster petit à petit sur les réseaux, en commençant par des covers. Ils deviennent petit à petit connus puis ils ont fini par officiellement créer leur groupe les “Cosmos Hunters” car ils sont fan de l’espace et des constellations. Depuis, ils font quelques tournées dans les villes voisines, ils utilisent aussi l’argent gagné pour de bonnes causes comme pour faire des dons à des associations, des dons aux pauvres ou d’autres personnes dans le besoin. A eux deux, ils se battent pour la liberté et l’équilibre dans le monde."
         },
 
+        "favoriteColor": {
+            "en": "Green",
+            "fr": "Vert",
+            "hexa": "#014421"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Singing",
+                    "Playing synth",
+                    "Writing songs with his sister",
+                    "Dressing up",
+                    "Space"
+                ],
+                "fr": [
+                    "Chanter",
+                    "Jouer du synthé",
+                    "Ecrie des musiques avec sa soeur",
+                    "S'habiller",
+                    "L'espace"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Being humiliated",
+                    "Doing mistakes on scene",
+                    "Being pushed around"
+                ],
+                "fr": [
+                    "Être humilié",
+                    "Faire des erreurs sur scène",
+                    "Se laisser faire"
+                ]
+            }
+        },
+
         "icon": "img/characters/Simon/SimonCharacter.png"
     },
 
@@ -1844,6 +2728,43 @@
         "origin": {
             "en": "She was born in a country where freedom is scarce, so things were quite difficult for her, though even harder for her brother, Simon. Both she and Simon were always fans of rock music and singers, and she came up with the idea of ​​forming a band with her younger brother. They taught themselves to sing and play instruments, then gradually began posting content on social media, starting with covers. They slowly gained recognition and eventually officially formed their band, 'Cosmos Hunters', a name inspired by their love of space and constellations. Since then, they have toured in neighboring towns and used their earnings for good causes, such as donating to charities or helping the poor and others in need. Together, they fight for freedom and balance in the world.",
             "fr": "Elle est née dans un pays où la liberté est très peu présente, alors cela a été assez compliqué pour elle, mais ça l’était plus pour son frère Simon. Elle et Simon ont toujours été fan de rock, des chanteurs, de la musique, et elle a eu l’idée de créer un groupe avec son petit frère. Alors ils ont appris à chanter et utiliser des instruments en autodidacte puis ils ont commencé à poster petit à petit sur les réseaux, en commençant par des covers. Ils deviennent petit à petit connus puis ils ont fini par officiellement créer leur groupe les “Cosmos Hunters” car ils sont fan de l’espace et des constellations. Depuis, ils font quelques tournées dans les villes voisines, ils utilisent aussi l’argent gagné pour de bonnes causes comme pour faire des dons à des associations, des dons aux pauvres ou d’autres personnes dans le besoin. A eux deux, ils se battent pour la liberté et l’équilibre dans le monde."
+        },
+
+        "favoriteColor": {
+            "en": "Red",
+            "fr": "Rouge",
+            "hexa": "#800517"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Singing",
+                    "Playing guitar",
+                    "Writing songs with her brother",
+                    "Taking photos and selfies",
+                    "Space"
+                ],
+                "fr": [
+                    "Chanter",
+                    "Jouer de la guitare",
+                    "Ecrie des musiques avec son frère",
+                    "Faire des photos et selfies",
+                    "L'espace"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "Seeing her brother being criticized",
+                    "Not doing anything",
+                    "Being pushed around"
+                ],
+                "fr": [
+                    "Voir son frère être critiqué",
+                    "Ne rien faire",
+                    "Se laisser faire"
+                ]
+            }
         },
 
         "icon": "img/characters/Kayrah/KayrahCharacter.png"
@@ -1922,6 +2843,35 @@
         "origin": {
             "en": "He came from another planet.",
             "fr": "Il vient d'une autre planète."
+        },
+
+        "favoriteColor": {
+            "en": "Navy blue",
+            "fr": "Bleu marine",
+            "hexa": "#000080"
+        },
+
+        "taste": {
+            "likes": {
+                "en": [
+                    "Making origamis",
+                    "Women"
+                ],
+                "fr": [
+                    "Faire des origamis",
+                    "Les femmes"
+                ]
+            },
+            "dislikes": {
+                "en": [
+                    "His hallucinations",
+                    "Men"
+                ],
+                "fr": [
+                    "Ses hallucinations",
+                    "Les hommes"
+                ]
+            }
         },
 
         "icon": "img/characters/Koneo/KoneoCharacter.png"

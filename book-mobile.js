@@ -81,6 +81,7 @@
 
         next.style.transition = "transform 0.35s ease, opacity 0.35s ease";
         next.style.transform = "translateX(0)";
+        next.style.height = "90%";
         next.style.opacity = "1";
 
         setTimeout(() => {
@@ -108,6 +109,7 @@
 
         prev.style.transition = "transform 0.35s ease, opacity 0.35s ease";
         prev.style.transform = "translateX(0)";
+        prev.style.height = "90%";
         prev.style.opacity = "1";
 
         setTimeout(() => {

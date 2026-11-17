@@ -38,6 +38,8 @@ function loadCharacter() {
             document.getElementById("description").style.backgroundColor = char.thirdcolor;
             document.getElementById("gallery").style.backgroundColor = char.thirdcolor;
             document.getElementById("galleryTitle").style.backgroundColor = char.secondcolor;
+            document.getElementById("videos").style.backgroundColor = char.thirdcolor;
+            document.getElementById("videoTitle").style.backgroundColor = char.secondcolor;
 
             document.querySelectorAll(".nav").forEach(btn => {
                 btn.style.color = char.secondcolor;
@@ -119,6 +121,111 @@ function loadCharacter() {
                 updateCarousel();
             };
 
+            //VIDEO
+            const videos = document.getElementById("videos");
+                if (char?.videos) {
+                    videos.style.display = "flex";
+                }
+                else {
+                    videos.style.display = "none";
+                };
+            const videoAboutDiv = document.getElementById("videoAboutDiv");
+            const videoAboutLinks = document.getElementById("videoAboutLinks");
+                if (char.videos?.videoAbout) {
+                        videoAboutDiv.style.display = "flex";
+                        videoAboutLinks.innerHTML = "";
+                        Object.values(char.videos.videoAbout).forEach(video => {
+                            const a = document.createElement("a");
+                            a.href = video.link;
+                            a.target = "_blank";
+                            const img = document.createElement("img");
+                            img.src = "icons/play_icon.png";
+                            img.alt = "Play button";
+                            const text = document.createElement("span");
+                            text.textContent = video.name;
+                            a.appendChild(img);
+                            a.appendChild(text);
+                            videoAboutLinks.appendChild(a);
+                        });
+                    }
+                    else {
+                        videoAboutDiv.style.display = "none";
+                    };
+            const videoFeatDiv = document.getElementById("videoFeatDiv");
+            const videoFeatLinks = document.getElementById("videoFeatLinks");
+                if (char.videos?.videoFeat) {
+                            videoFeatDiv.style.display = "flex";
+                            videoFeatLinks.innerHTML = "";
+                        Object.values(char.videos.videoFeat).forEach(video => {
+                            const a = document.createElement("a");
+                            a.href = video.link;
+                            a.target = "_blank";
+                            const img = document.createElement("img");
+                            img.src = "icons/play_icon.png";
+                            img.alt = "Play button";
+                            const text = document.createElement("span");
+                            text.textContent = video.name;
+                            a.appendChild(img);
+                            a.appendChild(text);
+                            videoFeatLinks.appendChild(a);
+                        });
+                        }
+                        else {
+                            videoFeatDiv.style.display = "none";
+                        };
+
+            //FAVORITE COLOR
+            const fColor = document.getElementById("fColor");
+                fColor.style.backgroundColor = char.thirdcolor;
+            const fColorName = document.getElementById("fColorName");
+                fColorName.textContent = char.favoriteColor[lang];
+            const fColorHexa = document.getElementById("fColorHexa");
+                fColorHexa.style.backgroundColor = char.favoriteColor.hexa
+
+            //TASTES
+            const blackScreen = document.getElementById("blackScreen");
+            const likeImg = document.getElementById("likeImg");
+                likeImg.addEventListener("click", () => {
+                        likeDiv.style.display = "flex";
+                        blackScreen.style.display = "block";
+                        dislikeDiv.style.display = "none";
+                    });
+            const likeDiv = document.getElementById("likeDiv");
+                likeDiv.style.backgroundColor = "#bc9470";
+            const likeList = document.getElementById("likeList");
+                likeList.innerHTML = "";
+                char.taste.likes[lang].forEach(list => {
+                    const li = document.createElement("li");
+                    li.textContent = list;
+                    likeList.appendChild(li);
+                });
+            const closeLike = document.getElementById("closeLike");
+                closeLike.addEventListener("click", () => {
+                        likeDiv.style.display = "none";
+                        blackScreen.style.display = "none";
+                    });
+
+            const dislikeImg = document.getElementById("dislikeImg");
+                dislikeImg.addEventListener("click", () => {
+                        dislikeDiv.style.display = "flex";
+                        blackScreen.style.display = "block";
+                        likeDiv.style.display = "none";
+                    });
+            const dislikeDiv = document.getElementById("dislikeDiv");
+                dislikeDiv.style.backgroundColor = "#bc9470";
+            const dislikeList = document.getElementById("dislikeList");
+                dislikeList.innerHTML = "";
+                char.taste.dislikes[lang].forEach(list => {
+                    const li = document.createElement("li");
+                    li.textContent = list;
+                    dislikeList.appendChild(li);
+                });
+            const closeDislike = document.getElementById("closeDislike");
+                closeDislike.addEventListener("click", () => {
+                        dislikeDiv.style.display = "none";
+                        blackScreen.style.display = "none";
+                    });
+
             updateCarousel();
         });
 }
@@ -172,6 +279,5 @@ document.addEventListener("keydown", (e) => {
         closeLightbox();
     }
 });
-
 
 

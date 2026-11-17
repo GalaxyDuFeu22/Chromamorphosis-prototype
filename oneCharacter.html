@@ -14,7 +14,7 @@
             <button id="en">EN</button>
             <button id="fr">FR</button>
     </div>
-    <button id="back"><a href="characters.html">◀</a></button>
+    <a id="back" href="characters.html"></a>
     <h1 id="charName"></h1>
     <i id="charTitle"></i>
     <section id="charSection01">
@@ -47,13 +47,27 @@
         <h2 id="galleryTitle" data-i18n="gallery">Gallery</h2>
 
         <div class="carousel">
-            <button class="nav prev">◄</button>
+            <button class="nav prev"><img src="icons/buttons/button_left.png" alt="Left button"></button>
             <div class="track-container">
                 <div class="track" id="galleryTrack"></div>
             </div>
-            <button class="nav next">►</button>
+            <button class="nav next"><img src="icons/buttons/button_right.png" alt="Right button"></button>
         </div>
     </section>
+
+        <section id="videos">
+            <h2 id="videoTitle" data-i18n="video">Videos</h2>
+            <div id="videoAboutDiv">
+                <h3 id="videoAboutTitle" data-i18n="videoAbout">Videos about the character</h3>
+                <div id="videoAboutLinks"></div>
+            </div>
+            <div id="videoFeatDiv">
+                <h3 id="videoFeatTitle" data-i18n="videoFeat">Videos where the character appears</h3>
+                <div id="videoFeatLinks"></div>
+            </div>
+        </section>
+
+
     <div id="lightbox">
         <img id="lightboxImg">
     </div>
@@ -66,6 +80,31 @@
             <h3 data-i18n="origin">Origins</h3>
             <p id="charOrigin"></p>
         </div>
+        <section id="tasteColor">
+            <div id="fColor">
+                <h3 data-i18n="fColor">Favorite color</h3>
+                <div><p id="fColorName"></p><div id="fColorHexa"></div></div>
+            </div>
+            <div id="taste">
+                <div class="bags">
+                    <img id="likeImg" src="icons/bagLike_icon.png" alt="Bag of what they like">
+                    <h4 data-i18n="like">Likes</p>
+                </div>
+                    <div id="likeDiv">
+                        <button id="closeLike"></button>
+                        <ul id="likeList"></ul>
+                    </div>
+                <div class="bags">
+                    <img id="dislikeImg" src="icons/bagDislike_icon.png" alt="Bag of what they dislike">
+                    <h4 data-i18n="dislike">Dislikes</p>
+                </div>
+                    <div id="dislikeDiv">
+                        <button id="closeDislike"></button>
+                        <ul id="dislikeList"></ul>
+                    </div>
+            </div>
+        </section>
+        <div id="blackScreen"></div>
 <footer>
     <small data-i18n="pfooter">Created by NeWiAr</small>
 </footer>
